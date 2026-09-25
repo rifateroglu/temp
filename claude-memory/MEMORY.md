@@ -1,0 +1,5 @@
+- [Windows Bash quirks](windows-bash-quirks.md) — uzun heredoc kesiliyor, curl Türkçe karakterleri bozuyor; Write+cat ve yüzde kodlama kullan
+- [Headless ekran görüntüsü (CDP)](headless-screenshot-cdp.md) — Edge+CDP (node): çerezli admin/mobil/hover/iframe testleri; lazy görsel beklemesi ve hatalı eval sözü asılı kalır
+- [CMS headless test harness](cms-headless-test-harness.md) — CMS_CONFIG + php -S router + Host başlığı; yerel cms DB SaaS şemasına taşınmamış olabilir
+- [maghukuk örnek sitesi ve hukuk temaları](maghukuk-sample-site.md) — site id 4, giriş bilgileri, hosts kaydı yok, yeniden üretme komutları
+- [volkanyenilmez sitesi ve sunucu yayını](volkanyenilmez-site.md) — tema/üretici, Turhost DNS (joker yok), ServerAlias, ssh bash -s + MSYS_NO_PATHCONV
